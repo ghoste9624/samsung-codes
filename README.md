@@ -1,4 +1,4 @@
-Samsung "Secret Codes" Collection
+# Samsung "Secret Codes" Collection
 
 *#06# (Display IMEI number) 
 
@@ -250,3 +250,13 @@ Secret Codes- Some of these will only work with specific firmware
 *7465625*27*# (Insert Network Lock Keycode NSP/CP) 
 
 #7465625*27*# (Insert Content Provider Keycode)
+
+<br>
+
+$ Updated On 
+
+``
+June 16, 2025  02:00
+``
+
+<br>
