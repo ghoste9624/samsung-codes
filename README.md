@@ -253,7 +253,7 @@ Secret Codes- Some of these will only work with specific firmware
 
 <br>
 
-$ Updated On 
+# Updated On 
 
 ``
 June 16, 2025  02:00
